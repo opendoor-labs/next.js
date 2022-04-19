@@ -5,6 +5,6 @@
   "license": "MIT",
   "dependencies": {
     "electron": "5.0.0",
-    "spectron": "7.0.0"
+    "spectron": "11.1.0"
   }
 }
